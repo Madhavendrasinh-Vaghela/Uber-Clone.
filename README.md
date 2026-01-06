@@ -1,7 +1,3 @@
-Uber Clone - Ride-Sharing Platform
-Project Overview
-This is a full-stack ride-sharing application modeled after Uber, featuring real-time location tracking, ride booking, and dynamic driver-passenger matching. The platform enables users to request rides and captains (drivers) to accept and complete them, with live Socket.IO-based communication and interactive map integration.
-
 Technical Architecture
 Backend (Node.js + Express)
 Framework: Express.js with RESTful API architecture
