@@ -6,7 +6,7 @@ Database: MongoDB with Mongoose ODM
 
 Real-time Communication: Socket.IO for live updates and location tracking
 
-Authentication: JWT (JSON Web Tokens) with dual support for:
+Authentication: JWT (JSON Web Tokens) with dual support for: 
 
 Authorization headers (Bearer <token>)
 
